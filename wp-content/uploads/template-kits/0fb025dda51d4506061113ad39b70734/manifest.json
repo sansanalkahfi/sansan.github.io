@@ -1,0 +1,1209 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Calliam - Creative CV Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Quote Form",
+            "screenshot": "screenshots\/metform-quote-form.jpg",
+            "source": "templates\/metform-quote-form.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/metform-quote-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/metform-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/header\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Before Footer",
+            "screenshot": "screenshots\/before-footer.jpg",
+            "source": "templates\/before-footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/before-footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/homepage\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio Detail",
+            "screenshot": "screenshots\/portfolio-detail.jpg",
+            "source": "templates\/portfolio-detail.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/portfolio-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.jpg",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/calliam\/template-kit\/error-404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.4",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.0.0",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.4.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.5.4",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "calliam_logo.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/calliam_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 7006,
+            "dimensions": [
+                224,
+                52
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "man-with-laptop-2021-05-01-01-14-34-utc.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/man-with-laptop-2021-05-01-01-14-34-utc-800x1199.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 273840,
+            "dimensions": [
+                1068,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/man-with-laptop-98ZJADL"
+        },
+        {
+            "filename": "brandos_project.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 48195,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "dagata_projrct.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/dagata_projrct.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 280058,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "hammer_project.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/hammer_project.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 108981,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "thoughtful-young-man-looking-away-while-sitting-on-NNM9RU8.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/thoughtful-young-man-looking-away-while-sitting-on-NNM9RU8-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 135832,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/thoughtful-young-man-looking-away-while-sitting-on-NNM9RU8"
+        },
+        {
+            "filename": "brandos_project_2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 123676,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "brandos_project_6.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 66452,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "brandos_project_7.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 102629,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "brandos_project_3.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 93146,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "brandos_project_4.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 102631,
+            "dimensions": [
+                600,
+                990
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "brandos_project_5.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/brandos_project_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/portfolio-detail.json",
+                    "name": "Portfolio Detail"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 131482,
+            "dimensions": [
+                600,
+                900
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3466,
+            "dimensions": [
+                169,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3655,
+            "dimensions": [
+                152,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_3.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 4639,
+            "dimensions": [
+                172,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3501,
+            "dimensions": [
+                171,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 4579,
+            "dimensions": [
+                140,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 4511,
+            "dimensions": [
+                157,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_7.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3961,
+            "dimensions": [
+                163,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3495,
+            "dimensions": [
+                147,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_9.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_9.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3077,
+            "dimensions": [
+                128,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "logo_10.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/logo_10.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 3550,
+            "dimensions": [
+                154,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "portrait-of-attractive-man-2021-04-02-22-42-15-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/portrait-of-attractive-man-2021-04-02-22-42-15-utc.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 80128,
+            "dimensions": [
+                768,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-attractive-man-M92ATPC"
+        },
+        {
+            "filename": "portrait-of-young-handsome-businessman-in-suit-thi-2021-04-03-22-41-33-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/portrait-of-young-handsome-businessman-in-suit-thi-2021-04-03-22-41-33-utc.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 125521,
+            "dimensions": [
+                768,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-young-handsome-businessman-in-suit-thi-2C5H7ZZ"
+        },
+        {
+            "filename": "happy-stylish-caucasian-man-with-backpack-travel-i-2021-04-06-16-24-35-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2020\/12\/happy-stylish-caucasian-man-with-backpack-travel-i-2021-04-06-16-24-35-utc-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 78277,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-stylish-caucasian-man-with-backpack-travel-i-6YNGB6S"
+        },
+        {
+            "filename": "rice-terraces-in-the-summer-unesco-world-heritage-UXD222Z.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2020\/12\/rice-terraces-in-the-summer-unesco-world-heritage-UXD222Z-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 277266,
+            "dimensions": [
+                901,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/rice-terraces-in-the-summer-unesco-world-heritage--UXD222Z"
+        },
+        {
+            "filename": "back-view-of-man-explorer-with-travel-backpack-2021-04-06-16-24-34-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2020\/12\/back-view-of-man-explorer-with-travel-backpack-2021-04-06-16-24-34-utc-800x533.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 83817,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/back-view-of-man-explorer-with-travel-backpack-4RJFVGR"
+        },
+        {
+            "filename": "heading_pattern.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/heading_pattern.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 10240,
+            "dimensions": [
+                320,
+                320
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/abstract-geometric-patterns-YYAL8P"
+        },
+        {
+            "filename": "payment_1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5006,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4682,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_3.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 3522,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_4.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4628,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_5.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4455,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_6.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 5165,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_7.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_7.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4448,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_8.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4174,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_9.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_9.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4434,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_10.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_10.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4739,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "payment_11.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/payment_11.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                }
+            ],
+            "filesize": 4371,
+            "dimensions": [
+                140,
+                96
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elementorkits.nathatype.com\/calliam"
+        },
+        {
+            "filename": "young-handsome-multi-ethnic-businessman-against-bl-2021-04-04-02-08-55-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/young-handsome-multi-ethnic-businessman-against-bl-2021-04-04-02-08-55-utc-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 73494,
+            "dimensions": [
+                900,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-handsome-multi-ethnic-businessman-against-bl-792YMMN"
+        },
+        {
+            "filename": "young-handsome-multi-ethnic-businessman-against-bl-2021-04-04-02-11-44-utc.jpeg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/08\/young-handsome-multi-ethnic-businessman-against-bl-2021-04-04-02-11-44-utc-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 59913,
+            "dimensions": [
+                900,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-handsome-multi-ethnic-businessman-against-bl-ERWSLRA"
+        },
+        {
+            "filename": "under_construction.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/calliam\/wp-content\/uploads\/sites\/16\/2021\/09\/under_construction-800x500.png",
+            "templates": [
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 141747,
+            "dimensions": [
+                1600,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/under-construction-404-hole-D36TAT"
+        }
+    ]
+}

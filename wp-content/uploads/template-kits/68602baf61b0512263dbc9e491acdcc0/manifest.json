@@ -1,0 +1,1999 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Selfolio - Creative CV \/ Personal Portfolio Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.1.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Before Footer",
+            "screenshot": "screenshots\/before-footer.jpg",
+            "source": "templates\/before-footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/before-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact",
+            "screenshot": "screenshots\/metform-contact.jpg",
+            "source": "templates\/metform-contact.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/metform-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Before Footer",
+            "screenshot": "screenshots\/metform-before-footer.jpg",
+            "source": "templates\/metform-before-footer.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/metform-before-footer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/404-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Price",
+            "screenshot": "screenshots\/price.jpg",
+            "source": "templates\/price.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/price\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partner",
+            "screenshot": "screenshots\/partner.jpg",
+            "source": "templates\/partner.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Detail Portfolio",
+            "screenshot": "screenshots\/detail-portfolio.jpg",
+            "source": "templates\/detail-portfolio.json",
+            "preview_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/template-kit\/detail-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.23",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "2.4.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "Jegstudio"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.0.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "3.8.3",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.18.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Texture.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Texture-800x358.png",
+            "templates": [
+                {
+                    "source": "templates\/before-footer.json",
+                    "name": "Before Footer"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109044,
+            "dimensions": [
+                1440,
+                644
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Pattern-7-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-7-1-800x285.png",
+            "templates": [
+                {
+                    "source": "templates\/before-footer.json",
+                    "name": "Before Footer"
+                }
+            ],
+            "filesize": 173734,
+            "dimensions": [
+                2500,
+                891
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "selfolio.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/selfolio.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3973,
+            "dimensions": [
+                269,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Gradient-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Gradient-1-800x656.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 179552,
+            "dimensions": [
+                1220,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "hero_image.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/hero_image-800x878.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 277178,
+            "dimensions": [
+                1000,
+                1097
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "Pattern-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-1-800x289.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 22550,
+            "dimensions": [
+                890,
+                321
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Gradient-2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Gradient-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 248794,
+            "dimensions": [
+                1890,
+                1890
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "joyful-millennial-man-sitting-on-sofa-with-tablet-2021-09-03-16-19-08-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/joyful-millennial-man-sitting-on-sofa-with-tablet-2021-09-03-16-19-08-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 186552,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/joyful-millennial-man-sitting-on-sofa-with-tablet--VBPR7NJ"
+        },
+        {
+            "filename": "student-and-education-at-home-during-covid-19-epid-2021-09-02-23-26-32-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/student-and-education-at-home-during-covid-19-epid-2021-09-02-23-26-32-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 156892,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/student-and-education-at-home-during-covid-19-epid-JF4PGWX"
+        },
+        {
+            "filename": "smiling-israeli-man-working-on-laptop-computer-at-2021-09-03-14-19-32-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/smiling-israeli-man-working-on-laptop-computer-at-2021-09-03-14-19-32-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 145277,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-israeli-man-working-on-laptop-computer-at--DEZD3D4"
+        },
+        {
+            "filename": "art-lesson-online-and-hobbies-during-coronavirus-q-2021-08-29-08-34-24-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/art-lesson-online-and-hobbies-during-coronavirus-q-2021-08-29-08-34-24-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 158109,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/art-lesson-online-and-hobbies-during-coronavirus-q-C89EHFG"
+        },
+        {
+            "filename": "Pattern-2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 42096,
+            "dimensions": [
+                667,
+                321
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 33677,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-3.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 27458,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 19392,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-7.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-7.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 23916,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 18095,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 15680,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-6.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 26255,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-8.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 23113,
+            "dimensions": [
+                720,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Gradient-3.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Gradient-3-800x1044.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 295961,
+            "dimensions": [
+                1440,
+                1879
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Gradient-4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Gradient-4-800x885.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 217615,
+            "dimensions": [
+                1440,
+                1593
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-2-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-2-1-800x512.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 101019,
+            "dimensions": [
+                1168,
+                748
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-4-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-4-1-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 110839,
+            "dimensions": [
+                1048,
+                872
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-design-living-houses-modern-luxury-ap-PULDYE5"
+        },
+        {
+            "filename": "portfolio-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-1-800x617.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 80866,
+            "dimensions": [
+                1048,
+                808
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-3.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-3-800x496.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 178765,
+            "dimensions": [
+                1304,
+                808
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Pattern-4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-4-800x614.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 198243,
+            "dimensions": [
+                1303,
+                1000
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Pattern-3-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-3-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 90922,
+            "dimensions": [
+                1029,
+                1029
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "ring-frame.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/ring-frame.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 17605,
+            "dimensions": [
+                468,
+                468
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Op-2.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 93841,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-businessman-8CWPJGG"
+        },
+        {
+            "filename": "Op-3-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 132830,
+            "dimensions": [
+                402,
+                402
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-successful-business-man-FFRKJMX"
+        },
+        {
+            "filename": "Op-4-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-4-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 128979,
+            "dimensions": [
+                360,
+                360
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/stylish-indian-business-man-UNGJ975"
+        },
+        {
+            "filename": "Op-5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 69099,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-young-businessman-FMSFANL"
+        },
+        {
+            "filename": "404.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/404-800x320.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 16883,
+            "dimensions": [
+                1052,
+                421
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Graphic-4.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Graphic-4-800x552.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 218576,
+            "dimensions": [
+                1371,
+                946
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Pattern-5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-5-800x115.png",
+            "templates": [
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 12119,
+            "dimensions": [
+                2600,
+                374
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Op-19-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-19-1.png",
+            "templates": [
+                {
+                    "source": "templates\/price.json",
+                    "name": "Price"
+                }
+            ],
+            "filesize": 152741,
+            "dimensions": [
+                520,
+                804
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/isolated-shot-of-confident-serious-unshaven-caucas-B3AC845"
+        },
+        {
+            "filename": "01-1.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4166,
+            "dimensions": [
+                200,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "02.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/02.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 5848,
+            "dimensions": [
+                230,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-7.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-7-800x512.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 121885,
+            "dimensions": [
+                1168,
+                748
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-6-800x512.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 141673,
+            "dimensions": [
+                1168,
+                748
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-businessman-holding-cellphone-while-sitti-ARCARYV"
+        },
+        {
+            "filename": "03.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/03.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6269,
+            "dimensions": [
+                232,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "04.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/04.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 4643,
+            "dimensions": [
+                240,
+                146
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "05.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/05.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 6354,
+            "dimensions": [
+                231,
+                167
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Pattern-8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-8.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 61231,
+            "dimensions": [
+                562,
+                434
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "Op-7.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-7.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 103356,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-young-businessman-FMSFANL"
+        },
+        {
+            "filename": "Op-8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-8.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 128024,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/horizontal-shot-of-handsome-self-confident-busines-STUQYTL"
+        },
+        {
+            "filename": "Op-9.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-9.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 132121,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-handsome-businessman-with-arms-crossed-E854P8F"
+        },
+        {
+            "filename": "Op-10.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-10.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 155242,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-hispanic-bald-bearded-businessman-thinkin-VHMMTKT"
+        },
+        {
+            "filename": "Op-11.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-11.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 125179,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/asian-young-businessman-DX7HU4K"
+        },
+        {
+            "filename": "Op-12.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-12.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 105046,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-portrait-8FBJC53"
+        },
+        {
+            "filename": "Op-13.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-13.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 136448,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-wearing-suit-against-gray-background-9VQ3BMC"
+        },
+        {
+            "filename": "Op-14.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-14.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 92982,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-with-a-dash-of-sophistication-C3HUBKP"
+        },
+        {
+            "filename": "Op-15.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-15.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 119502,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-hispanic-businessman-thinking-ag-UJRHLPY"
+        },
+        {
+            "filename": "Op-16.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-16.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 125763,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/face-of-young-handsome-businessman-with-eyeglasses-S58BJJC"
+        },
+        {
+            "filename": "Op-17.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-17.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 105688,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/full-body-shot-of-young-blonde-businessman-in-suit-8D4YTBZ"
+        },
+        {
+            "filename": "Op-18.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-18.png",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 123473,
+            "dimensions": [
+                564,
+                682
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/face-of-young-happy-african-businessman-in-suit-th-65KXY2S"
+        },
+        {
+            "filename": "portrait-of-a-smiling-businessman-in-his-office-2021-09-03-15-39-47-utc-Custom-e1643050396924.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portrait-of-a-smiling-businessman-in-his-office-2021-09-03-15-39-47-utc-Custom-e1643050396924-800x897.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 213668,
+            "dimensions": [
+                1487,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-a-smiling-businessman-in-his-office-XKZGFZV"
+        },
+        {
+            "filename": "happy-young-businessman-with-cup-of-coffee-at-offi-2021-08-31-22-17-08-utc-Custom-e1643050912197.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-young-businessman-with-cup-of-coffee-at-offi-2021-08-31-22-17-08-utc-Custom-e1643050912197-800x886.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 117138,
+            "dimensions": [
+                1500,
+                1662
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-businessman-with-cup-of-coffee-at-offi-JB7JNZ8"
+        },
+        {
+            "filename": "cheerful-asian-businessman-in-cafe-2021-08-27-09-53-58-utc-Custom-e1643051444112.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/cheerful-asian-businessman-in-cafe-2021-08-27-09-53-58-utc-Custom-e1643051444112-800x825.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 188484,
+            "dimensions": [
+                1612,
+                1662
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-asian-businessman-in-cafe-9K8MM5G"
+        },
+        {
+            "filename": "happy-businessman-with-a-tablet-2021-08-31-17-05-24-utc-Custom-e1643091634402.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-businessman-with-a-tablet-2021-08-31-17-05-24-utc-Custom-e1643091634402-800x632.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 114592,
+            "dimensions": [
+                1392,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-businessman-with-a-tablet-33SDWZ9"
+        },
+        {
+            "filename": "cheerful-confident-young-businessman-2021-08-30-06-39-07-utc-Custom-e1643051545716.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/cheerful-confident-young-businessman-2021-08-30-06-39-07-utc-Custom-e1643051545716-800x787.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 161401,
+            "dimensions": [
+                1568,
+                1542
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-confident-young-businessman-4Z9J6K2"
+        },
+        {
+            "filename": "happy-young-businessman-posing-sitting-at-laptop-i-2021-09-02-17-13-06-utc-Custom.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-young-businessman-posing-sitting-at-laptop-i-2021-09-02-17-13-06-utc-Custom-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 157336,
+            "dimensions": [
+                2500,
+                1666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-businessman-posing-sitting-at-laptop-i-NA8YFYJ"
+        },
+        {
+            "filename": "happy-mature-handsome-businessman-smiling-with-arm-2021-08-27-18-01-49-utc-Custom-e1643051599503.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-mature-handsome-businessman-smiling-with-arm-2021-08-27-18-01-49-utc-Custom-e1643051599503-800x894.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 207154,
+            "dimensions": [
+                1493,
+                1668
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-mature-handsome-businessman-smiling-with-arm-KG6CGE2"
+        },
+        {
+            "filename": "happy-mature-handsome-businessman-thinking-in-the-2021-08-28-03-29-31-utc-Custom-e1643051639361.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-mature-handsome-businessman-thinking-in-the-2021-08-28-03-29-31-utc-Custom-e1643051639361-800x793.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 140930,
+            "dimensions": [
+                1400,
+                1387
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-mature-handsome-businessman-thinking-in-the--43HX3EK"
+        },
+        {
+            "filename": "Op-6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Op-6-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 358072,
+            "dimensions": [
+                1242,
+                1242
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/pleased-cheerful-redhaired-male-with-pleasant-smil-CCXAYZL"
+        },
+        {
+            "filename": "logoipsum-logo-14.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-logo-14.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2849,
+            "dimensions": [
+                147,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-logo-39.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-logo-39.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1991,
+            "dimensions": [
+                124,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-logo-13.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-logo-13.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1887,
+            "dimensions": [
+                102,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "logoipsum-logo-15.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/logoipsum-logo-15.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2257,
+            "dimensions": [
+                102,
+                99
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-8.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-8.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 124451,
+            "dimensions": [
+                688,
+                1076
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-9.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-9.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 104717,
+            "dimensions": [
+                688,
+                1076
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/photo-of-businessman-holding-cellphone-while-sitti-ARCARYV"
+        },
+        {
+            "filename": "portfolio-10.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-10.png",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 129936,
+            "dimensions": [
+                688,
+                1076
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/side-view-of-young-happy-caucasian-businessman-usi-VHLCAJ4"
+        },
+        {
+            "filename": "mid-adult-business-man-working-from-home-2021-09-02-21-20-31-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/mid-adult-business-man-working-from-home-2021-09-02-21-20-31-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 206029,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mid-adult-business-man-working-from-home-HDLWLYH"
+        },
+        {
+            "filename": "Pattern-6.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/Pattern-6-800x701.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 161735,
+            "dimensions": [
+                1089,
+                954
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "#"
+        },
+        {
+            "filename": "portfolio-5.png",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/portfolio-5-800x512.png",
+            "templates": [
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 150286,
+            "dimensions": [
+                1168,
+                748
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/contemporary-design-living-houses-modern-luxury-ap-PULDYE5"
+        },
+        {
+            "filename": "happy-businessman-in-suit-meditating-and-feeling-p-2021-09-03-04-11-52-utc.jpg",
+            "thumbnail_url": "https:\/\/elementorkits.nathatype.com\/selfolio\/wp-content\/uploads\/sites\/18\/2022\/01\/happy-businessman-in-suit-meditating-and-feeling-p-2021-09-03-04-11-52-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/detail-portfolio.json",
+                    "name": "Detail Portfolio"
+                }
+            ],
+            "filesize": 94457,
+            "dimensions": [
+                2500,
+                1667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-businessman-in-suit-meditating-and-feeling-p-XAHQUTD"
+        }
+    ]
+}
